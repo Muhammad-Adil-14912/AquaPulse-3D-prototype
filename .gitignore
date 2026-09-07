@@ -1,0 +1,13 @@
+﻿# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Nested backup folder and archives
+/3D model/
+*.zip
+*.log
+
+# Editor folders
+.vscode/
+.idea/
